@@ -10,7 +10,7 @@ Each circle is a `dot` object that stores its own location, color, size, and age
 * Each circle checks it's age and when it become older than `DEATH_TIME`, it "pops"
 
 There is also a fullscreen button in the top left corner because I wanted to see how it works in p5js.  
-This can all be found in `scirpt.js`. All the other files are supporting files.
+This can all be found in `sketch.js`. All the other files are supporting files.
 
 ## Tehcnologies
 
