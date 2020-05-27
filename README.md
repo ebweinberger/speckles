@@ -4,7 +4,7 @@ Speckles is a small artisitc project that I made to help me learn p5js and verce
 
 ## Basic concept
 
-Each circle is and object that stores its own location, color, size, and age. The animation runs at 30 frames per second. There are a few things that happen in each frame:  
+Each circle is a `dot` object that stores its own location, color, size, and age. The animation runs at 30 frames per second. There are a few things that happen in each frame:  
 * A new circle is born with a random color and location
 * Each circle increases its radius by `GROWTH_RATE`
 * Each circle checks it's age and when it become older than `DEATH_TIME`, it "pops"
